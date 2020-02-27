@@ -24,13 +24,13 @@ Tools needed:
   
 # Wiring diagram
 OPTIONAL! Connect WS2812B to the D15 pin using the 200-500 Ohm resistor!
-![Image alt](https://github.com/PhanacyT/Arduino_MIDI_Controller/raw/master/MIDI_bb.png)
+![Image alt](https://github.com/4dvn/Arduino_MIDI_Controller/raw/master/MIDI_bb.png)
 
 # Pictures
-![Image alt](https://github.com/PhanacyT/Arduino_MIDI_Controller/raw/master/Pictures/1.jpg)
-![Image alt](https://github.com/PhanacyT/Arduino_MIDI_Controller/raw/master/Pictures/2.jpg)
-![Image alt](https://github.com/PhanacyT/Arduino_MIDI_Controller/raw/master/Pictures/3.jpg)
-![Image alt](https://github.com/PhanacyT/Arduino_MIDI_Controller/raw/master/Pictures/4.jpg)
-![Image alt](https://github.com/PhanacyT/Arduino_MIDI_Controller/raw/master/Pictures/5.jpg)
-![Image alt](https://github.com/PhanacyT/Arduino_MIDI_Controller/raw/master/Pictures/6.jpg)
-![Image alt](https://github.com/PhanacyT/Arduino_MIDI_Controller/raw/master/Pictures/7.jpg)
+![Image alt](https://github.com/4dvn/Arduino_MIDI_Controller/raw/master/Pictures/1.jpg)
+![Image alt](https://github.com/4dvn/Arduino_MIDI_Controller/raw/master/Pictures/2.jpg)
+![Image alt](https://github.com/4dvn/Arduino_MIDI_Controller/raw/master/Pictures/3.jpg)
+![Image alt](https://github.com/4dvn/Arduino_MIDI_Controller/raw/master/Pictures/4.jpg)
+![Image alt](https://github.com/4dvn/Arduino_MIDI_Controller/raw/master/Pictures/5.jpg)
+![Image alt](https://github.com/4dvn/Arduino_MIDI_Controller/raw/master/Pictures/6.jpg)
+![Image alt](https://github.com/4dvn/Arduino_MIDI_Controller/raw/master/Pictures/7.jpg)
